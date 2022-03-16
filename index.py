@@ -1,7 +1,7 @@
 import os
 import time
 import socket
-print("Python OS v0.2 copyright 2022, published under GNU.")
+print("Python OS v0.3 copyright 2022, published under GNU.")
 print("Welcome to Python OS!")
 print("============================================")
 name_x = input("введите свое имя ~> ")
