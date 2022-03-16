@@ -29,6 +29,7 @@ while(os):
         print("calc - калькулятор")
         print("ipconfig - IPv4-адрес")
         print("browser - браузеры")
+        print("games - игры")
         print("")
     elif (search== 'cd'):
         print(os.getcwd())
@@ -135,6 +136,16 @@ while(os):
         print("")
     if(search== 'tor'):
         os.startfile("tor.exe.lnk")
+    elif(search== 'games'):
+        print("snake - змейка")
+        print("")
+    if(search== 'snake'):
+        os.startfile("snake.py")
+        
+        
+
+    
+
         
 
     
